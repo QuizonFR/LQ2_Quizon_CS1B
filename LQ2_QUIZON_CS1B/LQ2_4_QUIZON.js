@@ -23,5 +23,5 @@ if (createMatrix.toLowerCase() === "yes") { // Ask user for the limits of 3 foll
         console.log(""); // Add a line break for better readability
     }
 } else {
-    console.log("Ok, Bye");
+    console.log("Thank you, re-run the program if you changed your mind.");
 }
